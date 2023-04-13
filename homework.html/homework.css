@@ -1,0 +1,43 @@
+.parent{
+    background-color: green;
+    width: 100%;
+    }
+    .son{
+    width: 50%;
+    float: left;
+    background-color: green;
+    }
+    .daughter{
+    width: 50%;
+    float: right;
+    }
+    img{
+    height: 377px;
+    width: 395.5px;
+    }
+    .p1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blanchedalmond;
+    }
+    .p2{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:blanchedalmond;
+    }
+    .p3{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blanchedalmond;
+    }
+    .p4{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blanchedalmond;
+    background-color: yellow;
+    color: black;
+    }
